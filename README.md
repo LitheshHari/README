@@ -1,34 +1,34 @@
 # README
 # Project Title
 
-## 📌 Description
+##  Description
 This project is about [your project idea]. It helps users to [purpose].
 
-## 🚀 Features
+##  Features
 - Easy to use
 - Beginner friendly
 - Fast and efficient
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript / Python
 
-## 📂 Project Structure
+##  Project Structure
 /project-folder
  ├── index.html
  ├── style.css
  └── script.js
 
-## ▶️ How to Run
+##  How to Run
 1. Download the project
 2. Open index.html in browser
 
-## 📸 Output
+##  Output
 (Add screenshot here)
 
-## 🤝 Contributing
+##  Contributing
 Feel free to contribute to this project.
 
-## 📄 License
+##  License
 This project is free to use.
